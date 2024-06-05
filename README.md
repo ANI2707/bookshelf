@@ -16,7 +16,7 @@ Navigate into the project directory:
 
 
 ```bash
-cd https://github.com/ANI2707/bookshelf.git
+cd bookshelf
 ```
 ##  Step 3: Install Dependencies
 

@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone the repository to your local machine using Git. Open your terminal and run:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ANI2707/bookshelf.git
 ```
 ##  Step 2: Navigate to the Project Directory
 
@@ -16,7 +16,7 @@ Navigate into the project directory:
 
 
 ```bash
-cd <repository-name>
+cd https://github.com/ANI2707/bookshelf.git
 ```
 ##  Step 3: Install Dependencies
 
